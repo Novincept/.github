@@ -54,7 +54,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper vel odio
 - **Prochaines deadlines :**
   - 10 Septembre : Fin du sprint 1
   - 24 Septembre : Release 1.0
-  - Lorem ipsum dolor sit amet.
 
 ## 📝 Contributing
 
@@ -66,5 +65,3 @@ Nous apprécions toutes les contributions que vous pouvez apporter. Pour partici
 4. **Commitez** vos changements : `git commit -m 'Ajoute une nouvelle fonctionnalité'`.
 5. **Pushez** la branche : `git push origin feature/nouvelle-fonctionnalité`.
 6. Ouvrez une **Pull Request**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a dictum sapien. Nam vehicula consectetur justo, sit amet laoreet metus commodo eu.
