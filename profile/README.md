@@ -39,7 +39,7 @@ Pour gérer notre travail de manière efficace, nous avons divisé notre activit
 ## Fonctionnement Général
 Voici comment nous gérons le flux de travail :
 
-1. **Création d'une Tâche** : Lorsqu'une nouvelle tâche est identifiée, comme la recherche d'une intégration pour le drive, elle est créée dans le projet **Tâches**.
+1. **Création d'une Tâche** : Lorsqu'une nouvelle tâche est identifiée, comme par exemple la recherche d'une nouvelle intégration ou un outils, elle est créée dans le projet **Tâches**.
    
 2. **Mise en Fonctionnalité** : Une fois que l'intégration est trouvée, elle est déplacée dans le projet **Fonctionnalités** sous "Fonctionnalités à venir" jusqu'au jour de son développement.
 
@@ -47,8 +47,6 @@ Voici comment nous gérons le flux de travail :
 
 4. **Améliorations et Feedback Client** : Les suggestions d'amélioration et les retours des clients sont traités de manière indépendante dans les projets **Évolutions et Améliorations** et **Feedback des Clients**, respectivement.
 
-## Avancement
-Les dépôts et projets GitHub sont créés et assignés. Nous commencerons la recherche d'intégrations et le démarrage des templates dès la semaine prochaine. Cette organisation nous permettra de réagir rapidement aux besoins des clients et d'assurer une collaboration fluide au sein de l'équipe.
 
 ---
 
