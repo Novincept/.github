@@ -39,7 +39,7 @@ Pour gérer notre travail de manière efficace, nous avons divisé notre activit
 ## Fonctionnement Général
 Voici comment nous gérons le flux de travail :
 
-1. **Création d'une Tâche** : Lorsqu'une nouvelle tâche est identifiée, comme par exemple la recherche d'une nouvelle intégration ou un outils, elle est créée dans le projet **Tâches**.
+1. **Création d'une Tâche** : Lorsqu'une nouvelle tâche est identifiée, comme par exemple la recherche d'une nouvelle intégration ou un outils, vous pourrez la créer depuis une issue dans le dépôt `task` et une branche sera dévelopé, elle sera ensuite créée automatiquement dans le projet **Tâches**.
    
 2. **Mise en Fonctionnalité** : Une fois que l'intégration est trouvée, elle est déplacée dans le projet **Fonctionnalités** sous "Fonctionnalités à venir" jusqu'au jour de son développement.
 
