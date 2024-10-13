@@ -1,57 +1,52 @@
 # Projet Novincept
 
 ## Contexte
-Le projet Novincept a pour objectif de développer une série d'offres pour les entreprises, incluant le marketing, la communication et le développement d'infrastructures. Nous allons nous concentrer sur la création d'infrastructures personnalisées en utilisant des intégrations Open Source. L'équipe se compose de développeurs front-end et d'un développeur back-end qui collaboreront pour livrer des solutions efficaces et adaptées aux besoins des clients.
+Le projet Novincept a pour but de développer diverses offres pour les entreprises, notamment dans le marketing, la communication et le développement d'infrastructures. L'accent sera mis sur la création d'infrastructures personnalisées à l'aide d'intégrations Open Source.
 
 ## Organisation des Projets
-Nous avons divisé notre travail en plusieurs projets spécifiques, chacun ayant ses propres objectifs et méthodologies. Voici un aperçu des projets en cours :
+Pour une gestion efficace, nous avons divisé notre travail en plusieurs projets spécifiques, chacun axé sur un aspect particulier de notre développement :
 
 ### 1. Tâches
-- **Description** : Gère toutes les tâches à accomplir pour le bon déroulement de notre développement. 
-- **Vues** :
-  - **Board** : Tâches à faire
-    - Statuts : À faire, En cours, Terminé
+- **Description** : Gère toutes les tâches à accomplir.
+- **Vues** : 
+  - **Board** : Tâches à faire (statuts : À faire, En cours, Terminé)
   - **Table** : Détails des Tâches
-    - Description : Liste détaillée avec statut, responsable, priorité et échéance.
 
 ### 2. Fonctionnalités
-- **Description** : Regroupe toutes les fonctionnalités à développer pour garantir leur mise en œuvre.
-- **Vues** :
-  - **Board** : Fonctionnalités en Cours
-    - Statuts : À développer, En développement, En test, Terminé
-  - **Roadmap** : Plan de Fonctionnalités
-    - Description : Vue des fonctionnalités futures avec jalons et dates estimées.
+- **Description** : Regroupe les fonctionnalités à développer.
+- **Vues** : 
+  - **Board** : Fonctionnalités en Cours (statuts : À développer, En développement, En test, Terminé)
+  - **Table** : Liste des fonctionnalités avec détails.
 
 ### 3. Bugs
-- **Description** : Gestion des bugs signalés pour assurer la qualité du produit.
-- **Vues** :
-  - **Board** : Suivi des Bugs
-    - Statuts : Bugs signalés, En cours de correction, Résolu, Vérifié
-  - **Table** : Détails des Bugs
-    - Description : Liste des bugs avec statut, responsable et échéance.
+- **Description** : Gestion des bugs signalés.
+- **Vues** : 
+  - **Board** : Suivi des Bugs (statuts : Bugs signalés, En cours de correction, Résolu)
+  - **Table** : Détails des Bugs.
 
 ### 4. Évolutions et Améliorations
-- **Description** : Recueille et analyse les suggestions d’évolutions et d’améliorations.
-- **Vues** :
-  - **Table** : Améliorations à envisager
-    - Description : Liste des suggestions d'améliorations.
-  - **Roadmap** : Plan d'Amélioration
-    - Description : Vue des évolutions prévues.
+- **Description** : Suggestions d’évolutions et d’améliorations.
+- **Vues** : 
+  - **Table** : Liste des améliorations à envisager.
+  - **Roadmap** : Plan d'amélioration.
 
 ### 5. Feedback des Clients
-- **Description** : Regroupe tous les retours des clients pour améliorer nos produits et services.
-- **Vues** :
-  - **Table** : Retours Clients
-    - Description : Liste des retours concernant fonctionnalités et améliorations.
-  - **Board** : Suivi des Retours Clients
-    - Statuts : À examiner, En cours d'analyse, Résolu
+- **Description** : Retours des clients sur nos produits.
+- **Vues** : 
+  - **Table** : Retours Clients.
+  - **Board** : Suivi des Retours Clients (statuts : À examiner, En cours d'analyse, Résolu).
 
-## Collaboration
-Pour assurer une collaboration efficace, chaque fonctionnalité ou tâche sera gérée dans des branches distinctes, selon une convention de nommage précise. Nous utiliserons également des labels pour catégoriser les issues et les pull requests, et des réunions de revue de code seront planifiées régulièrement.
+## Fonctionnement Général
+Chaque projet a des objectifs spécifiques et des vues adaptées pour gérer les tâches et les informations pertinentes. Voici comment tout cela fonctionne :
+
+- **Création de Fonctionnalités** : Lorsqu'une nouvelle fonctionnalité est définie, elle sera d'abord ajoutée dans le projet **Fonctionnalités**, suivie par la création d'une tâche dans le projet **Tâches**.
+- **Gestion des Bugs** : Les bugs seront signalés dans le projet **Bugs** et suivis jusqu'à leur résolution. 
+- **Améliorations** : Les suggestions d'améliorations ou d'évolutions viendront du projet **Évolutions et Améliorations**.
+- **Feedback Client** : Les retours clients seront collectés dans le projet **Feedback des Clients** et utilisés pour orienter les développements futurs.
 
 ## Avancement
-Les dépôts et projets GitHub sont créés et assignés. Nous commencerons la recherche d'intégrations et le démarrage des templates dès la semaine prochaine. Grâce à cette organisation, nous serons prêts à répondre rapidement aux besoins de nos clients, même si nous n'en avons pas encore.
+Les dépôts et projets GitHub sont créés et assignés. Nous commencerons la recherche d'intégrations et le démarrage des templates dès la semaine prochaine. Cette organisation nous permettra de réagir rapidement aux besoins des clients et de garantir une collaboration fluide au sein de l'équipe.
 
 ---
 
-**Remarque** : N'hésitez pas à ajouter vos commentaires et suggestions au fur et à mesure de l'avancement du projet.
+**Remarque** : Vos commentaires et suggestions sont toujours les bienvenus pour améliorer notre organisation et nos processus.
