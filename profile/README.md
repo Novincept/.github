@@ -1,6 +1,6 @@
 # Projet Novincept
 
-## Contexte
+## Mise en contexte
 Le projet Novincept vise à développer diverses offres pour les entreprises, notamment dans le marketing, la communication et le développement d'infrastructures. Nous nous concentrerons sur la création d'infrastructures personnalisées à l'aide d'intégrations Open Source.
 
 ## Organisation des Projets
@@ -11,12 +11,16 @@ Pour gérer notre travail de manière efficace, nous avons divisé notre activit
 - **Vues** : 
   - **Board** : Suivi des Tâches (statuts : À faire, En cours, Terminé)
   - **Table** : Détails des Tâches.
+- **Dépôt** : task
+- **Explication** : Lors de la création d'une nouvelle tâche, vous pourrez créer dans *Tâches à faire* une nouvelle tâches qui sera insérée dans la première colonne *À faire*. Ensuite, vous pourrez créer une branche dans le dépôt *task* qui se nommera sous cette forme task-<index> vous pourrez trouver le numéro en regardant l'index de la dernière branche. L'index commencera à 0. Pour finir, vous créerez une nouvelle issue avec le label task. Toutes ces choses nous permettront de gérer l'avancer, de stocker les ressources ncéssaires aux tâches et d'en discuter en laissant une trâce bien rangée et retrouvable facilement.
 
 ### 2. Fonctionnalités
 - **Description** : Regroupe les fonctionnalités à développer, en lien direct avec les tâches.
 - **Vues** : 
   - **Board** : Fonctionnalités à venir (statuts : À venir, En développement, En test, Terminé)
   - **Table** : Liste des fonctionnalités avec détails.
+- **Dépôt** : features
+- **Explication** : Lors de la création d'une nouvelle tâche, vous pourrez créer dans *Tâches à faire* une nouvelle tâches qui sera insérée dans la première colonne *À faire*. Ensuite, vous pourrez créer une branche dans le dépôt *task* qui se nommera sous cette forme task-<index> vous pourrez trouver le numéro en regardant l'index de la dernière branche. L'index commencera à 0. Pour finir, vous créerez une nouvelle issue avec le label task. Toutes ces choses nous permettront de gérer l'avancer, de stocker les ressources ncéssaires aux tâches et d'en discuter en laissant une trâce bien rangée et retrouvable facilement.
 
 ### 3. Bugs
 - **Description** : Gestion des bugs signalés durant le développement.
