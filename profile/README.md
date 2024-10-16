@@ -37,8 +37,8 @@ Chaque intégration (backend ou frontend) a sa propre branche dédiée dans les 
 
 ### Dans les dépôts `custom`
 Chaque client a sa propre branche dans les dépôts `custom`, où les intégrations sont reliées au hub principal et configurées selon les besoins du client, par exemple :
-- `client-xyz-backend`
-- `client-xyz-frontend`
+- `client-xyz` dans `integration-final`
+- `client-xyz` dans `frontend-final`
 
 ## 🚀 Workflow de Développement
 
